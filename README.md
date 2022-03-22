@@ -1,5 +1,5 @@
 # Laravel Jabar Coding Camp March - April
-Repository for Laravel Class Jabar Coding Camp Bootcamp
+Repository for Laravel Class Jabar Coding Camp
 
 ## First Week
 Day 1 :
